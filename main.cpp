@@ -15,3 +15,14 @@ int main(){
     cout << "La resta es: " << resta(x, y) << endl;
     return 0;
 }
+#include "probl.h"
+
+using namespace std;
+
+int main(){
+    string b= "Hola Mundo";
+    Intercambio(b);
+   
+    return 0;//hollalaaaa
+}
+
