@@ -15,7 +15,7 @@ void DemoComplex(){
             c6(1, 1);
                 
     
-    //c1+=c2; // c1 = c1 + c2
+    //c1+=c2; // c1 = c1 + c2;
     //cout<<c1;  
     //cout<<c3;
     //c3=c2+c1;   
@@ -32,8 +32,8 @@ void DemoComplex(){
     // c1 += c5; 
     //c1 += Complex(5,0);  
     //cout<<c1;
-
-    // c1 -= c6;
+    //hola
+    // c1 -= c6;  
     //c1 = c2 / c6 + c3 - c4 * c5;
     //cout << "Mi Complejo: " << c1 << " ..." << endl; 
 

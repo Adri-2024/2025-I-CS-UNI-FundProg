@@ -89,13 +89,13 @@ public:
     cout << "Ingrese la parte imaginaria: ";
     is >> z.m_i;
     return is;
-}
+} 
 
-    
+     
 };
 
 
-
+ 
   
 
 
